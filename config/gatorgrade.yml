@@ -1,0 +1,14 @@
+setup: |
+  echo "🐊 All project dependencies have been installed!"
+---
+
+# perform checks on a file
+- src/awesomeApp.md:
+    - description: Ensure that a awesomeApp.md files exist
+      check: ConfirmFileExists
+    - description: No TODOs remain in the awesomeApp.md files
+      check: MatchFileFragment
+      options:
+        fragment: TODO
+        count: 0
+        exact: true
