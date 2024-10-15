@@ -45,7 +45,7 @@ For immediate feedback on submissions, we will be using GatorGrade to inform stu
 - Use the images located in the `graphics` folder of this repository and ensure correct paths are referenced in the markdown file.
 
 ## Project Assessment
-- **Content and Structure (75 points total)**:
+- **Content and Structure (80 points total)**:
     - Headers (10 points)
     - Images (10 points): 4 images successfully add and reference correctly in the markdown file.
     - Links (10 points)
@@ -53,10 +53,11 @@ For immediate feedback on submissions, we will be using GatorGrade to inform stu
     - Bold and Italics (10 points)
     - Text Highlighting (5 points)
     - Table (10 points)
+    - Youtube Video (5 points)
     - Content (10 points): Accurately transfer all sections and content from the `awesomeApp.pdf` to `awesomeApp.md`.
 
-- **Correct Technical Writing Errors (25 points)**:
-  - Each error in the **Installation** section is worth 5 points. Total: 25 points.
+- **Correct Technical Writing Errors (20 points)**:
+  - Each error in the **Installation** section is worth 4 points. Total: 20 points.
 
 ## Gator Grade
 ### GatorGrade Checks for Immediate Feedback
