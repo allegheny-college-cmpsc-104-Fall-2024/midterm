@@ -45,14 +45,15 @@ For immediate feedback on submissions, we will be using GatorGrade to inform stu
 - Ensure all corrections and content from the `awesomeApp.pdf` are reflected in your markdown file.
 
 ## Project Assessment
-- **Format (75 points total)**:
+- **Content and Structure (75 points total)**:
     - Headers (10 points)
-    - Images (20 points): 4 images successfully add and reference correctly in the markdown file.
+    - Images (10 points): 4 images successfully add and reference correctly in the markdown file.
     - Links (10 points)
     - Code Notation/Blocks (10 points)
     - Bold and Italics (10 points)
     - Text Highlighting (5 points)
     - Table (10 points)
+    - Content (10 points): Accurately transfer all sections and content from the `awesomeApp.pdf` to `awesomeApp.md`.
 
 - **Correct Technical Writing Errors (25 points)**:
   - Each error in the **Installation** section is worth 5 points. Total: 25 points.
