@@ -43,6 +43,11 @@ For immediate feedback on submissions, we will be using GatorGrade to inform stu
 ### _Notes_:
 - Ensure all corrections and content from the `awesomeApp.pdf` are reflected in your markdown file.
 - Use the images located in the `graphics` folder of this repository and ensure correct paths are referenced in the markdown file.
+- Hint for inserting your logo.svg:
+
+``` 
+<img alt="Logo" align="right" src="https://raw.githubusercontent.com/allegheny-college-cmpsc-104-Fall-2024/midterm/main/graphics/logo.svg" width="20%" />
+```
 
 ## Project Assessment
 - **Content and Structure (80 points total)**:
