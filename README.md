@@ -35,7 +35,6 @@ For immediate feedback on submissions, we will be using GatorGrade to inform stu
 
 ### Part 1: Modify a Markdown File
 - Based on the content of `awesomeApp.pdf` in the `/src`, modify a markdown file `awesomeApp.md` in the `/src` folder.
-- Use the images located in the `graphics` folder of this repository and ensure correct paths are referenced in the markdown file.
 
 ### Part 2: Correct Technical Writing Errors
 - The **Installation** section of the `awesomeApp.pdf` contains intentional technical writing errors.
@@ -43,6 +42,7 @@ For immediate feedback on submissions, we will be using GatorGrade to inform stu
 
 ### _Notes_:
 - Ensure all corrections and content from the `awesomeApp.pdf` are reflected in your markdown file.
+- Use the images located in the `graphics` folder of this repository and ensure correct paths are referenced in the markdown file.
 
 ## Project Assessment
 - **Content and Structure (75 points total)**:
