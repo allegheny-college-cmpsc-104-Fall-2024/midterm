@@ -4,11 +4,11 @@
 <table>
   <thead>
       <td style="text-align:left;">Assigned</td>
-      <td style="text-align:left;">1:30 PM, Wednesday 16 October 2024</td>
+      <td style="text-align:left;">1:00 PM, Thursday 24 October 2024</td>
   </thead>
   <tfoot>
       <td style="text-align:left; color: red;">Deadline</td>
-      <td style="text-align:left;">4:30 PM, Wednesday 16 October 2024</td>
+      <td style="text-align:left;">4:00 PM, Thursday 24 October 2024</td>
   </tfoot>
 </table>
 
