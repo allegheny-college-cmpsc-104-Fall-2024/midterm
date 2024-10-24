@@ -8,7 +8,7 @@
   </thead>
   <tfoot>
       <td style="text-align:left; color: red;">Deadline</td>
-      <td style="text-align:left;">6:00 PM, Thursday 24 October 2024</td>
+      <td style="text-align:left;">9:00 PM, Thursday 24 October 2024</td>
   </tfoot>
 </table>
 
